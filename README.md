@@ -3,7 +3,7 @@
 Static site: plain HTML/CSS + ~3 KB JS. No framework, no build needed to host.
 
 - `index.html`: Greek homepage (primary) · `en/index.html`: English · `privacy/`, `en/privacy/`: privacy notices · `404.html`
-- `assets/logo.svg` (dark) and `assets/logo-light.svg` (on navy): **placeholder wordmarks**. Replace with the official logo files keeping the same names. `assets/favicon.svg` is the mark only.
+- `assets/img/logo.png` (navy) and `assets/img/logo-light.png` (white on dark): official Prooptis wordmark. Favicon: `assets/favicon.png` (stripe mark).
 - `assets/img/og-image.png`: social share image (1200×630).
 - Fonts (Inter, Manrope; Greek + Latin) are self-hosted in `assets/fonts/` (no Google requests, better for GDPR).
 - `robots.txt`, `sitemap.xml`, `llms.txt`: search engines and AI crawlers.
