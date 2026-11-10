@@ -21,6 +21,10 @@ Pricing is given as a written proposal per project after the intro call; third-p
 
 - [Homepage (Greek)](https://prooptis.com/): services, process, about, FAQ, contact form
 - [Homepage (English)](https://prooptis.com/en/)
+- [Articles (Greek)](https://prooptis.com/arthra/): practical guides for Greek businesses about Switzerland
+- [Επιχείρηση στην Ελβετία: πώς ανοίγει εταιρεία μια ελληνική επιχείρηση](https://prooptis.com/arthra/etaireia-stin-elvetia/): GmbH vs AG vs branch, minimum capital, commercial register, Swiss-resident signatory, bank, steps, timeline, common mistakes
+- [Φόροι, ΦΠΑ και εισφορές στην Ελβετία](https://prooptis.com/arthra/foroi-fpa-elvetia/): federal/cantonal/communal profit tax, effective rates by canton, Swiss VAT (8.1%, CHF 100,000 worldwide threshold), social contributions, Greece–Switzerland double tax treaty (general information, not tax advice)
+- [Πώς βρίσκει πελάτες και συνεργάτες στην Ελβετία μια ελληνική επιχείρηση](https://prooptis.com/arthra/pelates-stin-elvetia/): language regions, trade fairs, chambers and agencies, Swiss B2B culture, outreach and trust, localising the offer
 - [Privacy notice (Greek)](https://prooptis.com/privacy/)
 - [Privacy notice (English)](https://prooptis.com/en/privacy/)
 

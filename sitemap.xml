@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prooptis.com/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="el" href="https://prooptis.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://prooptis.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prooptis.com/"/>
   </url>
   <url>
     <loc>https://prooptis.com/en/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="el" href="https://prooptis.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://prooptis.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prooptis.com/"/>
@@ -25,5 +25,21 @@
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="el" href="https://prooptis.com/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://prooptis.com/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://prooptis.com/arthra/</loc>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://prooptis.com/arthra/etaireia-stin-elvetia/</loc>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://prooptis.com/arthra/foroi-fpa-elvetia/</loc>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://prooptis.com/arthra/pelates-stin-elvetia/</loc>
+    <lastmod>2026-11-10</lastmod>
   </url>
 </urlset>
