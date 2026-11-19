@@ -336,3 +336,35 @@ section{scroll-margin-top:84px}
 }
 @media (max-width:1260px) and (min-width:861px){.nav-links li:nth-child(1){display:none}}
 @media (max-width:1080px) and (min-width:861px){.nav-links li:nth-child(4){display:none}.brand img{height:32px}}
+
+/* v2: service groups, pension band & page, select */
+.svc-group{margin-bottom:44px}
+.svc-group:last-of-type{margin-bottom:0}
+.svc-group-title{font-family:var(--font-head);font-weight:800;color:var(--navy-800);font-size:1.15rem;letter-spacing:-.01em;margin:0 0 18px;display:flex;align-items:center;gap:12px}
+.svc-group-title::after{content:"";flex:1;height:1px;background:var(--line)}
+.services.cols-3{grid-template-columns:repeat(3,1fr);gap:24px}
+.services.cols-3 .service{padding:32px 28px}
+.services.cols-3 .service h3{font-size:1.4rem}
+.service .who{font-size:.94rem;color:var(--ink);margin:0 0 16px}
+.service .who strong{color:var(--navy-800)}
+.svc-cta{margin-top:18px;display:inline-flex;align-items:center;gap:8px;font-weight:700;font-size:.95rem;color:var(--teal-500);text-decoration:none}
+.svc-cta:hover{color:var(--navy-700)}
+.svc-cta svg{width:16px;height:16px;flex:none}
+.field select{font:inherit;font-size:1rem;color:var(--ink);background:var(--bg);border:1.5px solid var(--line);border-radius:12px;padding:13px 15px;width:100%;transition:border-color .15s,background .15s,box-shadow .15s}
+.field select:focus{outline:none;border-color:var(--teal-500);background:#fff;box-shadow:0 0 0 4px rgba(20,163,160,.14)}
+.section.band{padding:0 0 96px}
+.pension-band{display:grid;grid-template-columns:auto 1fr auto;gap:24px;align-items:center;background:var(--teal-50);border:1px solid #cdeeea;border-radius:var(--radius);padding:24px 30px;text-decoration:none;color:var(--ink);transition:box-shadow .2s,transform .15s}
+.pension-band:hover{color:var(--ink);box-shadow:var(--shadow);transform:translateY(-1px)}
+.pension-band .kicker{font-family:var(--font-head);font-size:.78rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--navy-800);border-radius:999px;padding:6px 12px;white-space:nowrap}
+.pension-band .txt{color:#334155}
+.pension-band .txt strong{color:var(--navy-800)}
+.pension-band .more{display:inline-flex;align-items:center;gap:8px;font-weight:700;color:var(--teal-500);white-space:nowrap}
+.pension-band .more svg{width:16px;height:16px}
+.form-note{grid-column:1/-1;margin:0;font-size:.88rem;color:#5c4410;background:#FFF8E8;border:1px solid #F2DDAE;border-radius:12px;padding:12px 14px}
+.page-hero .hero-ctas{margin-top:22px}
+.article .honest{margin:28px 0 8px;padding:20px 24px 8px}
+.article .honest ul.checks{padding:0;margin:0 0 12px}
+.article .honest li{color:#5c4410}
+.article .honest .checks svg{color:#b7862a}
+@media (max-width:1020px){.services.cols-3{grid-template-columns:1fr}}
+@media (max-width:700px){.pension-band{grid-template-columns:1fr;gap:12px;padding:22px 20px}.pension-band .kicker{justify-self:start}.section.band{padding-bottom:72px}}

@@ -34,6 +34,16 @@
   // Year
   document.querySelectorAll("[data-year]").forEach(function (el) { el.textContent = new Date().getFullYear(); });
 
+  // Service CTAs preselect the topic in the contact form
+  document.querySelectorAll("a[data-topic]").forEach(function (a) {
+    a.addEventListener("click", function () {
+      var sel = document.getElementById("f-interest");
+      if (!sel) return;
+      var opt = sel.querySelector('option[data-topic="' + a.getAttribute("data-topic") + '"]');
+      if (opt) sel.value = opt.value;
+    });
+  });
+
   // Contact form
   var form = document.getElementById("contact-form");
   if (!form) return;
@@ -53,7 +63,9 @@
     var fd = new FormData(form);
     var data = {};
     fd.forEach(function (v, k) { if (k !== "website") data[k] = v; });
-    var subject = "Prooptis.com: " + (data.company || data.name || "νέο μήνυμα");
+    var subject = t.subject
+      ? t.subject + ": " + (data.name || "νέο μήνυμα")
+      : "Prooptis.com: " + (data.company || data.name || "νέο μήνυμα") + (data.interest ? " · " + data.interest : "");
     if (!WEB3FORMS_ACCESS_KEY) { status.className = "form-status err"; status.textContent = t.noconfig; return; }
     var url = "https://api.web3forms.com/submit";
     var payload = Object.assign({ access_key: WEB3FORMS_ACCESS_KEY, subject: subject, from_name: "Prooptis website", botcheck: "" }, data);

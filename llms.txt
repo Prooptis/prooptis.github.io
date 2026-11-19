@@ -1,19 +1,28 @@
 # Prooptis
 
-> Prooptis (Prooptis Μονοπρόσωπη Ι.Κ.Ε. / Prooptis Single Member P.C., Greece) helps Greek businesses in any sector set up and grow commercial activity in Switzerland: company establishment coordination and commercial development (finding Swiss buyers and partners). It does not work on investors or fundraising.
+> Prooptis (Prooptis Μονοπρόσωπη Ι.Κ.Ε. / Prooptis Single Member P.C., Greece) is a growth partner between Greece and Switzerland. It helps Greek businesses in any sector set up and sell in Switzerland, helps Swiss companies enter Greece, offers a part-time growth lead, and helps with EU programmes and consortia (finding calls, Greek and Swiss partners, coordinating proposals). It also has a separate service for individuals: Swiss pension (AHV/AVS and 2nd pillar) file support. It does not raise investment.
 
-Prooptis is a Greek company (GEMI 195398703000, tax ID 803365672), founded in 2026. It is based in Greece. Its team has many years of experience from working in and running businesses in Switzerland, deep familiarity with the Swiss market, business culture and procedures, and a network of contacts in Switzerland. It passes this know-how on to clients in practice and through advice. It serves Greek companies of every sector (food and beverages, industry and machinery, agricultural products and equipment, software, B2B services and others) that want to sell in or establish themselves in Switzerland. Website languages: Greek (primary) and English.
+Prooptis is a Greek company (GEMI 195398703000, tax ID 803365672), founded in 2026. It is based in Greece. Its team has many years of experience from working in and running businesses in Switzerland, in business development, strategic partnerships, finance and operations, and has worked on EU programmes and consortia. It knows the Swiss market, business culture and procedures, the Greek market and administration, and has a network of contacts in Switzerland. Languages: Greek, English and German. Website languages: Greek (primary) and English.
 
 ## Services
 
-- **Establishment in Switzerland (Εγκατάσταση στην Ελβετία):** coordination of company formation and procedures; introductions to Swiss lawyers, accountants, banks and insurers; tracking of deadlines and documents; premises search (office, warehouse, shop) where needed. Legal and tax advice is given by licensed partner professionals; Prooptis coordinates.
-- **Commercial development (Εμπορική ανάπτυξη):** research and mapping of Swiss buyers, distributors and partners; first contacts and successive introductions through a network of contacts in Switzerland; outreach guidance (message, presentation, follow-up); customer expansion after the first clients. No guaranteed customers.
+### Markets · Greece ↔ Switzerland
+- **01 · Establishment in Switzerland (Εγκατάσταση στην Ελβετία):** coordination of company formation and procedures; introductions to Swiss lawyers, accountants, banks and insurers; tracking of deadlines and documents; premises search (office, warehouse, shop) where needed. For Greek companies in any sector. Legal and tax advice is given by licensed partner professionals; Prooptis coordinates.
+- **01 · Commercial development (Εμπορική ανάπτυξη):** research and mapping of Swiss buyers, distributors and partners; first contacts and successive introductions through a network of contacts in Switzerland; outreach guidance (message, presentation, follow-up); customer expansion after the first clients. No guaranteed customers.
+- **02 · Entering Greece (Είσοδος στην Ελλάδα):** for Swiss companies that want to sell in Greece, find Greek partners or set up a presence: market, customer, distributor and partner mapping; introductions to Greek accountants, lawyers and banks; coordination of company or branch formation (tax number, GEMI business register, bank); joining meetings and bridging language and business culture.
+
+### Growth & EU programmes
+- **03 · Part-time growth lead (Υπεύθυνος ανάπτυξης με μερική απασχόληση):** an experienced growth / business development lead for a few days a month (fractional growth or BD lead): growth strategy and priorities, partnerships and distributors, support in key meetings and negotiations, regular check-ins. Days per month and goals agreed upfront.
+- **04 · EU programmes & consortia (Ευρωπαϊκά προγράμματα & κοινοπραξίες):** identifying EU calls that fit; finding and selecting partners in Greece and Switzerland; checking whether and how Swiss partners can take part in a given call; coordinating the proposal (roles, timeline, texts, documents); joining existing consortia. No guarantee of approval: EU evaluators decide.
+
+### For individuals
+- **05 · Swiss pension file support (Ελβετική σύνταξη):** for people who worked in Switzerland and now live in Greece, and their heirs: search for forgotten 2nd-pillar accounts via the Zentralstelle 2. Säule, preparing and following up an AHV/AVS pension application, documents, translations and German-language correspondence with the funds, plain-language updates. Prooptis never handles money (funds pay directly to the person), acts only with written authorisation and gives no legal, tax or investment advice. Page: https://prooptis.com/elvetiki-syntaxi/ (English: https://prooptis.com/en/swiss-pension/)
 
 ## How it works
 
 1. Free intro call (δωρεάν κλήση γνωριμίας)
-2. Needs assessment and written plan (steps, order, partners, timeline, expected third-party costs)
-3. Execution with regular updates
+2. Written proposal and plan (what is needed, order, partners, timeline, expected third-party costs)
+3. Execution with regular updates; for monthly engagements, agreed goals and regular reviews
 
 Pricing is given as a written proposal per project after the intro call; third-party costs are shown separately.
 
@@ -21,6 +30,8 @@ Pricing is given as a written proposal per project after the intro call; third-p
 
 - [Homepage (Greek)](https://prooptis.com/): services, process, about, FAQ, contact form
 - [Homepage (English)](https://prooptis.com/en/)
+- [Swiss pension for individuals (Greek)](https://prooptis.com/elvetiki-syntaxi/): AHV/AVS and 2nd-pillar file support for people who worked in Switzerland
+- [Swiss pension for individuals (English)](https://prooptis.com/en/swiss-pension/)
 - [Articles (Greek)](https://prooptis.com/arthra/): practical guides for Greek businesses about Switzerland
 - [Επιχείρηση στην Ελβετία: πώς ανοίγει εταιρεία μια ελληνική επιχείρηση](https://prooptis.com/arthra/etaireia-stin-elvetia/): GmbH vs AG vs branch, minimum capital, commercial register, Swiss-resident signatory, bank, steps, timeline, common mistakes
 - [Φόροι, ΦΠΑ και εισφορές στην Ελβετία](https://prooptis.com/arthra/foroi-fpa-elvetia/): federal/cantonal/communal profit tax, effective rates by canton, Swiss VAT (8.1%, CHF 100,000 worldwide threshold), social contributions, Greece–Switzerland double tax treaty (general information, not tax advice)
